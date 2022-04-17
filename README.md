@@ -1,1 +1,3 @@
-# 55bf83a352
+Dokumentácia ku aplikácii
+
+Api endpoint test link: 
